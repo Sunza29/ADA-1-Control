@@ -8,4 +8,5 @@ que este código genera en formato PDF (Gráficas.pdf) y el análisis de las mis
 ***Notas:***
 + Todas la cifras fueron redondeadas para una mayor facilidad a la hora de crear el gráfico.
 + El redondeo se hizo siguiendo el criterio de que si el decimal es superior a 0.5 se redondea aumentando en 1. Por el contrario, si el decimal es inferior a 0.5 no se ajustará, simplemente se eliminará el decimal.
-+ Si no desea descargar el archivo de word puede visualizar el análisis de las gráficas en su versión PDF (ADA1.pdf)
++ Si no desea descargar el archivo de word puede visualizar el análisis de las gráficas en su versión PDF (ADA1.pdf).
++ Para abrir los archivos solo tienes que hacer click en el nombre de cada uno.
